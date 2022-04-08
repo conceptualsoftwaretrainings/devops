@@ -4,3 +4,6 @@ networking
 
 VCS:
 Git and Github
+
+Containerization:
+Docker
